@@ -12,6 +12,4 @@
    - I'll do my best to keep the various repos separate, but no guarantees.
 
 ## License:
-   - All of my code is licensed under the GNU Affero GPL. Should you wish to clone one of my repos and use my scripts,
-     you are free to do so (at your own risk) and modify the code to your liking. If you desire to publish your own changes,
-     you must also use the GNU Affero GPL.
+   - Most of my Pacman scripts will are/will be licensed under the GNU Affero GPL, since they are designed to be run on a server or headless system in order to automate the process of installing a desktop environment. All of my other projects, including Arch Linux AUR packages, are/will be generally released under the same license as the program itself (MIT, GPL, etc). Check the LICENSE file in each repository for more information.
